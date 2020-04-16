@@ -1,0 +1,449 @@
+{\rtf1\ansi\deff0
+{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil\fcharset0 System;}}
+{\colortbl\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue127;\red0\green127\blue127;\red0\green127\blue0;\red127\green0\blue127;\red127\green0\blue0;\red127\green127\blue0;\red127\green127\blue127;\red192\green192\blue192;}
+{\info{\creatim\yr2002\mo8\dy19\hr8\min21\sec20}{\revtim\yr2002\mo8\dy19\hr8\min54\sec22}{\version5}{\vern393248}}\paperw57723\paperh47958\margl360\margr45919\margt360\margb31474\deftab849
+
+#{\footnote Hlp_Indice}
+${\footnote Indice}
+K{\footnote Indice}
++{\footnote Browse:0005}
+\pard{\b\f0\fs20\cf0 Project Library}{
+\keepn\par}\pard{
+\par}\pard{\f0\fs20\cf0 Para aprender a usar la ayuda presione F1. Para aprender de un item clic sobre un }{\f0\fs20\cf0 elemento.}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 Project Library es una utilidad para almacenar c\'f3digo fuente Visual Basic. Con }{\f0\fs20\cf0 Project Library puede :}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 - Agregar c\'f3digo a 14 categorias.}{
+\par}\pard{\f0\fs20\cf0 - Importar c\'f3digo desde archivos Visual Basic.}{
+\par}\pard{\f0\fs20\cf0 - Buscar c\'f3digo en internet con el browser integrado que viene en el.}{
+\par}\pard{\f0\fs20\cf0 - Exportar c\'f3digo.}{
+\par}\pard{\f0\fs20\cf0 - Buscar c\'f3digo en la libreria.}{
+\par}\pard{\f0\fs20\cf0 - Seleccionar c\'f3digo de diferentes categorias y exportar a archivo Visual Basic.}{
+\par}\pard{\f0\fs20\cf0 - Exportar el c\'f3digo a archivo de texto (.TXT) , formato texto enriquecido (.RTF) y }{\f0\fs20\cf0 formato de hypertexto (.HTM)}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 Para comprar el c\'f3digo fuente de esta o otra aplicaci\'f3n enviar un email a : }{\f0\fs20\cf0 lnunez@vbsoftware.cl.}{
+\par}\pard{
+\par}\pard{\ul\f0\fs20\cf0 Otras aplicaciones en el sitio web de vbsoftware :}{\f0\fs20\cf0 {\v Hlp_Aplicaciones_de }}{
+\par}\pard{
+\par}\pard{\ul\f0\fs20\cf0 Requerimientos}{\f0\fs20\cf0 {\v Hlp_Requerimientos_para }}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 \{bmc Main.shg\}}{
+\par}\pard{
+\par}\pard{\b\i\f0\fs20\cf0 Project Library creado por Luis N\'fa\'f1ez Ibarra.}{
+\par}\pard{\b\i\f0\fs20\cf0 http://www.vbsoftware.cl}{
+\par}\pard{\b\i\f0\fs20\cf0 Santiago de Chile 2000-2002.}{
+\par}\pard{\b\i\f0\fs20\cf0 Todos los derechos reservados.}{
+\par}\pard{
+\par}\pard{\f0\fs18\cf0 VBSoftware - Santiago de Chile 2000-2002.}{
+\par}
+\page
+#{\footnote menu_archivo}
+${\footnote Men\'fa Archivo}
+K{\footnote Men\'fa Archivo}
++{\footnote Browse:0010}
+\pard{\b\f0\fs20\cf0 Men\'fa Archivo}{
+\keepn\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Importar :}{\f0\fs20\cf0  Importa c\'f3digo desde archivos Visual Basic. Se puede importar archivos }{\f0\fs20\cf0 desde : }{
+\par}\pard{\f0\fs20\cf0\tab}{\f0\fs20\cf0 - .vbp (Proyectos Visual Basic)}{
+\par}\pard{\f0\fs20\cf0\tab}{\f0\fs20\cf0 - .bas (M\'f3dulos)}{
+\par}\pard{\f0\fs20\cf0\tab}{\f0\fs20\cf0 - .cls (M\'f3dulos de Clase)}{
+\par}\pard{\f0\fs20\cf0\tab}{\f0\fs20\cf0 - .frm (Formularios)}{
+\par}\pard{\f0\fs20\cf0\tab}{\f0\fs20\cf0 - .ctl (Controles) }{
+\par}\pard{\f0\fs20\cf0\tab}{\f0\fs20\cf0 - .pag (P\'e1ginas de Propiedades)}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 La siguiente pantalla sera desplegada cuando se selecciono archivo :}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 \{bmc Exportar.shg\}}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 Siga estos pasos para importar c\'f3digo :}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 1.- Seleccione una categor\'eda.}{
+\par}\pard{\f0\fs20\cf0 2.- Seleccione los itemes a exportar con los siguientes botones : Agregar/Agregar }{\f0\fs20\cf0 Todos.  Para quitar itemes Quitar/Quitar Todos.}{
+\par}\pard{\f0\fs20\cf0 3.- Haga clic en el bot\'f3n Aceptar.}{
+\par}\pard{\f0\fs20\cf0 4.- Para importar diferentes c\'f3digos a diferentes categorias repita los pasos }{\f0\fs20\cf0 anteriores.}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Exportar :}{\f0\fs20\cf0  Exporta c\'f3digo seleccionado en la ficha bookmark y que este marcado.}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 Siga estos pasos para exportar c\'f3digo :}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 1.- Seleccione una categoria. }{
+\par}\pard{\f0\fs20\cf0 2.- Marque la primera casilla del item que va a exportar.}{
+\par}\pard{\f0\fs20\cf0 3.- Presione el bot\'f3n derecho y seleccione Agregar a Bookmark.}{
+\par}\pard{\f0\fs20\cf0 4.- Para seleccionar itemes de otra categoria repita los pasos anteriores.}{
+\par}\pard{\f0\fs20\cf0 5.- Haga clic en la ficha Bookmark.}{
+\par}\pard{\f0\fs20\cf0 6.- Marque la primera casilla del item en bookmark que va a exportar. }{
+\par}\pard{\f0\fs20\cf0 7.- Haga clic con el bot\'f3n derecho y seleccione a M\'f3dulo .Bas o M\'f3dulo .Cls.}{
+\par}\pard{\f0\fs20\cf0 8.- Ante la pregunta confirme.}{
+\par}\pard{\f0\fs20\cf0 9.- Seleccione el path donde va a guardar el archivo seleccionado.}{
+\par}\pard{\f0\fs20\cf0 10.- Haga clic en el bot\'f3n Aceptar.}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Configurar impresora :}{\f0\fs20\cf0  Configura la impresora.}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Imprimir :}{\f0\fs20\cf0  Imprime el c\'f3digo fuente del item activo.}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Salir :}{\f0\fs20\cf0  Sale de la aplicaci\'f3n previa confirmaci\'f3n.}{
+\par}\pard{
+\par}\pard{\f0\fs18\cf0 VBSoftware - Santiago de Chile 2000-2002.}{
+\par}
+\page
+#{\footnote menu_edicion}
+${\footnote Men\'fa Edici\'f3n}
+K{\footnote Men\'fa Edici\'f3n}
++{\footnote Browse:0015}
+\pard{\b\f0\fs20\cf0 Men\'fa Edici\'f3n}{
+\keepn\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Copiar :}{\f0\fs20\cf0  Copiar el c\'f3digo seleccionado al portapapeles.}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Cortar :}{\f0\fs20\cf0  Cortar el c\'f3digo seleccionado al portapapeles.}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Borrar :}{\f0\fs20\cf0  Borrar el c\'f3digo seleccionado al portapapeles.}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Pegar :}{\f0\fs20\cf0  Pegar el c\'f3digo seleccionado desde el portapapeles al c\'f3digo del item }{\f0\fs20\cf0 seleccionado.}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Seleccionar todo ... :}{\f0\fs20\cf0  Seleccionar todo el texto.}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Buscar : }{\f0\fs20\cf0 Buscar texto en el c\'f3digo del item seleccionado.}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Buscar siguiente ... :}{\f0\fs20\cf0  Buscar la siguiente coincidencia.}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Reemplazar :}{\f0\fs20\cf0  Reemplazar texto en el c\'f3digo.}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Exportar a texto ... :}{\f0\fs20\cf0  Exportar el c\'f3digo fuente del item activo a un archivo de texto. }{\f0\fs20\cf0 (.TXT)}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Exportar a rtf :}{\f0\fs20\cf0  Exportar el c\'f3digo fuente del item activo a un archivo de texto }{\f0\fs20\cf0 enriquecido. (.RTF)}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Exportar a html :}{\f0\fs20\cf0  Exportar el c\'f3digo fuente del item activo a un archivo de }{\f0\fs20\cf0 hypertexto. (.HTM)}{
+\par}\pard{
+\par}\pard{\f0\fs18\cf0 VBSoftware - Santiago de Chile 2000-2002.}{
+\par}
+\page
+#{\footnote menu_libreria}
+${\footnote Men\'fa Libreria}
+K{\footnote Libreria}
++{\footnote Browse:0020}
+\pard{\b\f0\fs20\cf0 Men\'fa Libreria}{
+\keepn\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Agregar item :}{\f0\fs20\cf0  Agregar un item a la libreria seleccionada.}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 Para agregar un item a la libreria siga estos pasos :}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 1.- Seleccione del men\'fa libreria la opci\'f3n Agregar Item o presione CTRL-A.}{
+\par}\pard{\f0\fs20\cf0 2.- La siguiente pantalla sera desplegada.}{
+\par}\pard{\f0\fs20\cf0 \{bmc Agregar.shg\}}{
+\par}\pard{\f0\fs20\cf0 3.- Escriba el texto asociado al item de la libreria.}{
+\par}\pard{\f0\fs20\cf0 4.- Ante la pregunta confirme para grabar.}{
+\par}\pard{\f0\fs20\cf0 5.- Haga clic en el b\'f3ton salir.}{
+\par}\pard{\f0\fs20\cf0 6.- Para insertar el c\'f3digo asociado al item clic en la ficha codigo fuente item.}{
+\par}\pard{\f0\fs20\cf0 7.- Inserte el c\'f3digo fuente a grabar.}{
+\par}\pard{\f0\fs20\cf0 8.- La aplicaci\'f3n autom\'e1ticamente detecta el cambio de c\'f3digo y lo asocia el item seleccionado.}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Modificar item :}{\f0\fs20\cf0  Modifica el texto descriptivo del item.}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 Para modificar un item de la libreria siga estos pasos :}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 1.- Seleccione del men\'fa libreria la opci\'f3n Modificar Item o presione CTRL-M.}{
+\par}\pard{\f0\fs20\cf0 2.- La siguiente pantalla sera desplegada con el texto }{
+\par}\pard{\f0\fs20\cf0 \{bmc Agregar.shg\}}{
+\par}\pard{\f0\fs20\cf0 3.- Modifique el texto asociado al item de la libreria.}{
+\par}\pard{\f0\fs20\cf0 4.- Ante la pregunta confirme para grabar.}{
+\par}\pard{\f0\fs20\cf0 5.- Haga clic en el b\'f3ton salir.}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Nota :}{\f0\fs20\cf0  Para modificar el c\'f3digo asociado al item clic en la ficha codigo fuente item y modifiquelo}{
+\par}\pard{\f0\fs20\cf0 La aplicaci\'f3n autom\'e1ticamente detecta el cambio de c\'f3digo y lo asocia el item seleccionado.}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Eliminar item :}{\f0\fs20\cf0  Elimina el item y el c\'f3digo fuente de este.}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 Para eliminar el item siga estos pasos : }{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 1.- Seleccione del men\'fa libreria la opci\'f3n Eliminar Item o presione CTRL-D.}{
+\par}\pard{\f0\fs20\cf0 2.- Seleccione el o los itemes a eliminar marcando la primera casilla.}{
+\par}\pard{\f0\fs20\cf0 3.- Ante la pregunta confirme.}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Buscar c\'f3digo :}{\f0\fs20\cf0  Busca c\'f3digo en los itemes de la libreria.}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 Para buscar c\'f3digo siga estos pasos :}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 1.- Seleccione del men\'fa libreria la opci\'f3n Buscar c\'f3digo.}{
+\par}\pard{\f0\fs20\cf0 2.- La siguiente pantalla ser\'e1 desplegada.}{
+\par}\pard{\f0\fs20\cf0 \{bmc Buscar.shg\}}{
+\par}\pard{\f0\fs20\cf0 3.- Seleccione la categoria.}{
+\par}\pard{\f0\fs20\cf0 4.- Seleccione la forma de b\'fasqueda.}{
+\par}\pard{\f0\fs20\cf0 5.- Digite el texto a buscar.}{
+\par}\pard{\f0\fs20\cf0 6.- Haga clic en el bot\'f3n buscar.}{
+\par}\pard{\f0\fs20\cf0 7.- Si la b\'fasqueda fue exitosa se cargaran los itemes seleccionados a la b\'fasqueda.}{
+\par}\pard{\f0\fs20\cf0 8.- Para seleccionar el item en la pantalla principal doble clic sobre este.}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Actualizar :}{\f0\fs20\cf0  Actualiza los itemes de las diferentes categorias.}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Ver c\'f3digo fuente :}{\f0\fs20\cf0  Visualiza el c\'f3digo fuente del item seleccionado.}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Seleccionar todos los itemes :}{\f0\fs20\cf0  Marca todos los itemes.}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Invertir selecci\'f3n :}{\f0\fs20\cf0  Invierte la selecci\'f3n de marca de itemes.}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Quitar selecci\'f3n de :}{\f0\fs20\cf0  Desmarca los itemes seleccionados.}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Agregar a bookmark :}{\f0\fs20\cf0  Agrega el item seleccionado al bookmark.}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Quitar de bookmark :}{\f0\fs20\cf0  Quita los itemes seleccionados del bookmark.}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Respaldar libreria a .zip :}{\f0\fs20\cf0  Respalda la libreria de c\'f3digo a archivo .zip.}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 Para respaldar la libreria siga estos pasos :}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 1.- Seleccione del men\'fa libreria la opci\'f3n Respaldar libreria a .zip}{
+\par}\pard{\f0\fs20\cf0 2.- Ante la pregunta confirme.}{
+\par}\pard{\f0\fs20\cf0 3.- Seleccione el path donde guardara el archivo.}{
+\par}\pard{
+\par}\pard{\f0\fs18\cf0 VBSoftware - Santiago de Chile 2000-2002.}{
+\par}
+\page
+#{\footnote menu_opciones}
+${\footnote Men\'fa Opciones}
+K{\footnote Men\'fa Opciones}
++{\footnote Browse:0030}
+\pard{\b\f0\fs20\cf0 Men\'fa Opciones}{
+\keepn\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Opciones de libreria :}{\f0\fs20\cf0  Se configuran los siguientes par\'e1metros de la aplicaci\'f3n. La siguiente pantalla }{\f0\fs20\cf0 sera desplegada :}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 \{bmc Opclib.shg\}}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Colorizar c\'f3digo :}{\f0\fs20\cf0  Coloriza el c\'f3digo fuente del item seleccionado.}{
+\par}\pard{\b\f0\fs20\cf0 Respaldar libreria al salir :}{\f0\fs20\cf0  La aplicaci\'f3n realiza un respaldo de la libreria cada vez que finaliza su }{\f0\fs20\cf0 ejecuci\'f3n (RECOMENDADO).}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 Para configurar las opciones de internet :}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 \{bmc Opcint.shg\}}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 P\'e1gina de inicio :}{\f0\fs20\cf0  La p\'e1gina de inicio del navegador interno.}{
+\par}\pard{\f0\fs20\cf0 P\'e1ginas Visitadas : Esta lista muestra las paginas que han sido visitadas. Para eliminar marcar la casilla }{\f0\fs20\cf0 con x.}{
+\par}\pard{
+\par}\pard{
+\par}\pard{\f0\fs18\cf0 VBSoftware - Santiago de Chile 2000-2002.}{
+\par}
+\page
+#{\footnote eliminar_item}
+${\footnote Eliminar item}
+K{\footnote eliminar item asociado a categor\'eda}
+\pard{\b\f0\fs20\cf0 Eliminar item :}{\f0\fs20\cf0  Elimina el item y el c\'f3digo fuente de este.}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 Para eliminar el item siga estos pasos : }{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 1.- Seleccione del men\'fa libreria la opci\'f3n Eliminar Item o presione CTRL-D.}{
+\par}\pard{\f0\fs20\cf0 2.- Seleccione el o los itemes a eliminar marcando la primera casilla.}{
+\par}\pard{\f0\fs20\cf0 3.- Ante la pregunta confirme.}{
+\par}
+\page
+#{\footnote agregar_item}
+${\footnote Agregar item}
+K{\footnote agregar item a categor\'eda}
+\pard{\b\f0\fs20\cf0 Agregar item :}{\f0\fs20\cf0  Agregar un item a la libreria seleccionada.}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 Para agregar un item a la libreria siga estos pasos :}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 1.- Seleccione del men\'fa libreria la opci\'f3n Agregar Item o presione CTRL-A.}{
+\par}\pard{\f0\fs20\cf0 2.- La siguiente pantalla sera desplegada.}{
+\par}\pard{\f0\fs20\cf0 \{bmc Agregar.shg\}}{
+\par}\pard{\f0\fs20\cf0 3.- Escriba el texto asociado al item de la libreria.}{
+\par}\pard{\f0\fs20\cf0 4.- Ante la pregunta confirme para grabar.}{
+\par}\pard{\f0\fs20\cf0 5.- Haga clic en el b\'f3ton salir.}{
+\par}\pard{\f0\fs20\cf0 6.- Para insertar el c\'f3digo asociado al item clic en la ficha codigo fuente item.}{
+\par}\pard{\f0\fs20\cf0 7.- Inserte el c\'f3digo fuente a grabar.}{
+\par}\pard{\f0\fs20\cf0 8.- La aplicaci\'f3n autom\'e1ticamente detecta el cambio de c\'f3digo y lo asocia el item seleccionado.}{
+\par}\pard{
+\par}\pard{
+\par}
+\page
+#{\footnote respaldar_libreria}
+${\footnote Respaldar libreria}
+K{\footnote Respaldar libreria}
+\pard{\b\f0\fs20\cf0 Respaldar libreria a .zip :}{\f0\fs20\cf0  Respalda la libreria de c\'f3digo a archivo .zip.}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 Para respaldar la libreria siga estos pasos :}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 1.- Seleccione del men\'fa libreria la opci\'f3n Respaldar libreria a .zip}{
+\par}\pard{\f0\fs20\cf0 2.- Ante la pregunta confirme.}{
+\par}\pard{\f0\fs20\cf0 3.- Seleccione el path donde guardara el archivo.}{
+\par}
+\page
+#{\footnote actualizar_libreria}
+${\footnote Actualizar itemes de libreria}
+K{\footnote actualizar itemes}
+\pard{\b\f0\fs20\cf0 Actualizar :}{\f0\fs20\cf0  Actualiza los itemes de las diferentes categorias.}{
+\par}
+\page
+#{\footnote edicion_cortar}
+${\footnote Cortar texto al portapapeles}
+K{\footnote cortar texto al portapapeles}
+\pard{\b\f0\fs20\cf0 Cortar :}{\f0\fs20\cf0  Cortar el c\'f3digo seleccionado al portapapeles.}{
+\par}
+\page
+#{\footnote edicion_copiar}
+${\footnote Copiar texto al portapapeles}
+K{\footnote copiar texto al portapapeles}
+\pard{\b\f0\fs20\cf0 Copiar :}{\f0\fs20\cf0  Copiar el c\'f3digo seleccionado al portapapeles.}{
+\par}
+\page
+#{\footnote edicion_pegar}
+${\footnote Pegar texto desde el portapapeles}
+K{\footnote Pegar texto desde el portapapeles}
+\pard{\b\f0\fs20\cf0 Pegar :}{\f0\fs20\cf0  Pegar el c\'f3digo seleccionado al portapapeles.}{
+\par}
+\page
+#{\footnote edicion_buscar}
+${\footnote Buscar texto en c\'f3digo}
+K{\footnote buscar texto en c\'f3digo de item seleccionado}
+\pard{\b\f0\fs20\cf0 Buscar : }{\f0\fs20\cf0 Buscar texto en el c\'f3digo del item seleccionado.}{
+\par}
+\page
+#{\footnote archivo_imprimir}
+${\footnote Imprimir c\'f3digo de item}
+K{\footnote Imprimir c\'f3digo de item}
+\pard{\b\f0\fs20\cf0 Imprimir :}{\f0\fs20\cf0  Imprime el c\'f3digo fuente del item activo.}{
+\par}
+\page
+#{\footnote edicion_exportar_texto}
+${\footnote Exportar c\'f3digo fuente a archivo de texto}
+K{\footnote exportar c\'f3digo a archivo de texto}
+\pard{\b\f0\fs20\cf0 Exportar a texto ... :}{\f0\fs20\cf0  Exportar el c\'f3digo fuente del item activo a un archivo de texto. (.TXT)}{
+\par}
+\page
+#{\footnote edicion_exportar_rtf}
+${\footnote Exportar c\'f3digo fuente a archivo enriquecido}
+K{\footnote exportar c\'f3digo fuente a archivo enriquecido}
+\pard{\b\f0\fs20\cf0 Exportar a rtf :}{\f0\fs20\cf0  Exportar el c\'f3digo fuente del item activo a un archivo de texto enriquecido. (.RTF)}{
+\par}
+\page
+#{\footnote edicion_exportar_html}
+${\footnote Exportar c\'f3digo fuente a archivo de hypertexto}
+K{\footnote exportar c\'f3digo a hypertexto}
+\pard{\b\f0\fs20\cf0 Exportar a html :}{\f0\fs20\cf0  Exportar el c\'f3digo fuente del item activo a un archivo de hypertexto. (.HTM)}{
+\par}
+\page
+#{\footnote importar_bas}
+${\footnote Importar c\'f3digo desde archivo .bas}
+K{\footnote importar c\'f3digo desde archivo .bas}
+\pard{\f0\fs20\cf0 Importar c\'f3digo fuente desde archivo .bas}{
+\par}
+\page
+#{\footnote categorias}
+${\footnote Categorias de Project Library}
+K{\footnote categorias de project library}
+\pard{\b\f0\fs20\cf0 Categorias de Project Library}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 - Apis : Categoria para almacenar c\'f3digo fuente relacionado a las apis de windows.}{
+\par}\pard{\f0\fs20\cf0 - ActiveX : Categoria para almacenar c\'f3digo fuente relacionado con los controles activex.}{
+\par}\pard{\f0\fs20\cf0 - Archivos : Categoria para almacenar c\'f3digo fuente relacionado con el manejo de archivos.}{
+\par}\pard{\f0\fs20\cf0 - Bases de datos : Categoria para almacenar c\'f3digo fuente relacionado con el manejo de bases de }{\f0\fs20\cf0 datos.}{
+\par}\pard{\f0\fs20\cf0 - Cadenas : Categoria para almacenar c\'f3digo fuente relacionado con el manejo de cadenas.}{
+\par}\pard{\f0\fs20\cf0 - Controles : Categoria para almacenar c\'f3digo fuente relacionado con el manejo de controles de }{\f0\fs20\cf0 usuario.}{
+\par}\pard{\f0\fs20\cf0 - Formularios : Categoria para almacenar c\'f3digo fuente relacionado con el manejo de formularios.}{
+\par}\pard{\f0\fs20\cf0 - Graficos : Categoria para almacenar c\'f3digo fuente relacionado con el manejo de graficos.}{
+\par}\pard{\f0\fs20\cf0 - Internet : Categoria para almacenar c\'f3digo fuente relacionado con el manejo de internet.}{
+\par}\pard{\f0\fs20\cf0 - Juegos : Categoria para almacenar c\'f3digo fuente relacionado con la programaci\'f3n de juegos.}{
+\par}\pard{\f0\fs20\cf0 - Matematicas : Categoria para almacenar c\'f3digo fuente relacionado con matematicas.}{
+\par}\pard{\f0\fs20\cf0 - Multimedia : Categoria para almacenar c\'f3digo fuente relacionado con multimedia.}{
+\par}\pard{\f0\fs20\cf0 - Registro : Categoria para almacenar c\'f3digo fuente relacionado con el registro de windows.}{
+\par}\pard{\f0\fs20\cf0 - Otros : Categoria para almacenar c\'f3digo fuente relacionado con otras areas que no estan en }{\f0\fs20\cf0 ninguna de las anteriores.}{
+\par}
+\page
+#{\footnote archivo_salir}
+${\footnote Salir de la aplicaci\'f3n}
+K{\footnote Salir de la aplicaci\'f3n}
+\pard{\b\f0\fs20\cf0 Salir :}{\f0\fs20\cf0  Sale de la aplicaci\'f3n previa confirmaci\'f3n.}{
+\par}
+\page
+#{\footnote ayuda_indice}
+\pard{\f0\fs20\cf0 La ayuda que esta viendo en pantalla.}{
+\par}
+\page
+#{\footnote itemes}
+${\footnote Itemes de la categor\'eda}
+K{\footnote Itemes de la categor\'eda}
+\pard{\b\f0\fs20\cf0 Itemes de la categor\'eda}{
+\par}\pard{
+\par}\pard{\f0\fs20\cf0 Esta es la lista con los itemes asociados a la categor\'eda seleccionada.}{
+\par}
+\page
+#{\footnote importar_formulario}
+${\footnote Importar c\'f3digo fuente desde archivo .frm}
+K{\footnote Importar c\'f3digo fuente desde archivo .frm}
+\pard{\f0\fs20\cf0 Importar c\'f3digo fuente desde archivo .frm}{
+\par}
+\page
+#{\footnote importar_cls}
+${\footnote Importar c\'f3digo fuente desde archivo .cls}
+K{\footnote Importar c\'f3digo fuente desde archivo .cls}
+\pard{\f0\fs20\cf0 Importar c\'f3digo fuente desde archivo .cls}{
+\par}
+\page
+#{\footnote importar_control}
+${\footnote Importar c\'f3digo fuente desde archivo .ctl}
+K{\footnote Importar c\'f3digo fuente desde archivo .ctl}
+\pard{\f0\fs20\cf0 Importar c\'f3digo fuente desde archivo .ctl}{
+\par}
+\page
+#{\footnote importar_pagina}
+${\footnote Importar c\'f3digo fuente desde archivo .pag}
+K{\footnote Importar c\'f3digo fuente desde archivo .pag}
+\pard{\f0\fs20\cf0 Importar c\'f3digo fuente desde archivo .pag}{
+\par}
+\page
+#{\footnote importar_proyecto}
+${\footnote Importar c\'f3digo fuente desde proyecto (.vbp)}
+K{\footnote Importar c\'f3digo fuente desde proyecto (.vbp)}
+\pard{\f0\fs20\cf0 Importar c\'f3digo fuente desde proyecto (.vbp)}{
+\par}
+\page
+#{\footnote ayuda_internet}
+\pard{\f0\fs20\cf0 Ir a la p\'e1gina web de vbsoftware.}{
+\par}
+\page
+#{\footnote Hlp_Aplicaciones_de}
+${\footnote Aplicaciones de VBSoftware}
+K{\footnote Aplicaciones de VBSoftware.}
+\pard{\b\f0\fs20\cf0 Component Checker :}{\f0\fs20\cf0  Comprueba componentes activex.}{
+\par}\pard{\b\f0\fs20\cf0 Component Cleaner :}{\f0\fs20\cf0  Limpia componentes activex.}{
+\par}\pard{\b\f0\fs20\cf0 Component Manager :}{\f0\fs20\cf0  Administra componentes activex.}{
+\par}\pard{\b\f0\fs20\cf0 EasyQuery!. :}{\f0\fs20\cf0  Realiza consultas a origenes de datos odbc y access 97 y 2000.}{
+\par}\pard{\b\f0\fs20\cf0 Project Backup :}{\f0\fs20\cf0  Respalda proyectos visual basic.}{
+\par}\pard{\b\f0\fs20\cf0 Project Compare :}{\f0\fs20\cf0  Compara proyectos visual basic.}{
+\par}\pard{\b\f0\fs20\cf0 Project Dependency :}{\f0\fs20\cf0  Visualiza las dependencias entre proyectos Visual Basic.}{
+\par}\pard\tx3960{\b\f0\fs20\cf0 Project Explorer :}{\f0\fs20\cf0  Analiza aplicaciones Visual Basic.}{
+\par}
+\page
+#{\footnote codigo}
+\pard{\f0\fs20\cf0 Esta ficha despliega los itemes asociados a la categor\'eda seleccionada.}{
+\par}
+\page
+#{\footnote codigo_fuente}
+\pard{\f0\fs20\cf0 Esta ficha muestra el c\'f3digo fuente del item seleccionado.}{
+\par}
+\page
+#{\footnote buscar_internet}
+\pard{\f0\fs20\cf0 Esta ficha se puede buscar en internet con el browser integrado que viene en el.}{
+\par}
+\page
+#{\footnote bookmark}
+\pard{\f0\fs20\cf0 En esta ficha se almacena el c\'f3digo seleccionado para ser exportado.}{
+\par}
+\page
+#{\footnote Hlp_Requerimientos_para}
++{\footnote Browse:0070}
+\pard{\b\f0\fs20\cf0 Requerimientos}{
+\par}\pard{\f0\fs20\cf0 - Windows 95/98/2000/Me/Proffessional.}{
+\par}\pard{\f0\fs20\cf0 - Runtimes de VB6}{
+\par}\pard{
+\par}\pard{\b\f0\fs20\cf0 Archivos Utilizados}{
+\par}\pard{\f0\fs20\cf0 - StdOle2.tlb (OLE Automation)}{
+\par}\pard{\f0\fs20\cf0 - TLBINF32.DLL (TypeLib Information)}{
+\par}\pard{\f0\fs20\cf0 - PVB_XMENU.DLL (PVB6 ActiveX DLL - Menu With Bitmaps !)}{
+\par}\pard{\f0\fs20\cf0 - MSCOMCTL.OCX (Microsoft Windows Common Controls 6.0 (SP4))}{
+\par}\pard{\f0\fs20\cf0 - RICHTX32.OCX (Microsoft Rich Textbox Control 6.0 (SP4))}{
+\par}\pard{\f0\fs20\cf0 - Runtimes de VB6}{
+\par}\pard{\f0\fs20\cf0 - Microsoft ActiveX Objects (ADO) 2.5}{
+\par}\pard{\f0\fs20\cf0 - vbzip10.dll y vbuzip10.dll}{
+\par}\pard{\f0\fs20\cf0 - SHDOCVW.DLL (Microsoft Internet Controls)}{
+\par}
+\page}
+

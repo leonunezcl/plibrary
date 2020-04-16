@@ -1,0 +1,75 @@
+[OPTIONS]
+ERRORLOG=D:\VBSoftware\Aplicaciones\Project Library\ayuda\plibrary.ERR
+ROOT=D:\VBSOFT~1\APLICA~1\PROJEC~7\AYUDA
+COMPRESS=OFF
+CONTENTS = Hlp_Indice                                                      
+COPYRIGHT=2002-2002 VBSoftware.
+ICON=D:\VBSoftware\Aplicaciones\Project Library\Iconos\Tbrx_11.ico
+REPORT=ON
+TITLE=VBSoftware : Ayuda de Project Library
+WARNING=1
+
+[WINDOWS]
+main="VBSoftware : Ayuda de Project Library", ( 255 , 255 , 511 , 511  ), 58881 ,,(r 8454143 )
+HlpWnd02="Window 2", ( 511 , 0 , 511 , 1000  ), 0 ,(r 14876671 ),(r 14876671 )
+HlpWnd03="Window 3", ( 255 , 511 , 511 , 511  ), 0 ,(r 14876671 ),(r 14876671 )
+HlpWnd04="Window 4", ( 255 , 511 , 511 , 511  ), 0 ,(r 14876671 ),(r 14876671 )
+HlpWnd05="Window 5", ( 255 , 511 , 511 , 511  ), 0 ,(r 14876671 ),(r 14876671 )
+HlpWnd06="Window 6", ( 255 , 511 , 511 , 511  ), 0 ,(r 14876671 ),(r 14876671 )
+
+[CONFIG]
+RR("mmsystem","sndPlaySound","Su")
+BrowseButtons()
+CreateButton("btn_copy", "C&opy", "CopyTopic()")
+
+[BAGGAGE]
+
+
+[BITMAPS]
+C:\ARCHIVOS DE PROGRAMA\HELPWRITER32\GLOSSARY.SHG
+D:\VBSoftware\Aplicaciones\Project Library\ayuda\Agregar.shg
+D:\VBSoftware\Aplicaciones\Project Library\ayuda\Buscar.shg
+D:\VBSoftware\Aplicaciones\Project Library\ayuda\Exportar.shg
+D:\VBSoftware\Aplicaciones\Project Library\ayuda\Main.shg
+D:\VBSoftware\Aplicaciones\Project Library\ayuda\Opcint.shg
+D:\VBSoftware\Aplicaciones\Project Library\ayuda\Opclib.shg
+
+[MAP]
+Hlp_Indice  10
+menu_archivo  20
+menu_edicion  30
+menu_libreria  40
+menu_opciones  60
+eliminar_item  70
+agregar_item  80
+respaldar_libreria  90
+actualizar_libreria  100
+edicion_cortar  110
+edicion_copiar  120
+edicion_pegar  130
+edicion_buscar  140
+archivo_imprimir  160
+edicion_exportar_texto  170
+edicion_exportar_rtf  180
+edicion_exportar_html  190
+importar_bas  200
+categorias  210
+archivo_salir  220
+ayuda_indice  230
+itemes  240
+importar_formulario  250
+importar_cls  260
+importar_control  270
+importar_pagina  280
+importar_proyecto  290
+ayuda_internet  300
+Hlp_Aplicaciones_de  310
+codigo  340
+codigo_fuente  350
+buscar_internet  360
+bookmark  370
+Hlp_Requerimientos_para  380
+GLOSSARY 64000
+
+[FILES]
+D:\VBSoftware\Aplicaciones\Project Library\ayuda\plibrary.p01
