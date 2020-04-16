@@ -1,0 +1,14 @@
+------------------------------------------------------
+VBSoftware - http://www.vbsoftware.cl
+Software libre para desarrolladores Visual Basic
+Santiago de Chile
+2000-2002
+
+Proyect Library 2002 version 1.0.7
+Copyright (c) 2000-2002 por Luis Núñez Ibarra.
+------------------------------------------------------
+
+Futuras incorporaciones.
+------------------------
+
+- Asociar archivos a itemes de categorias.

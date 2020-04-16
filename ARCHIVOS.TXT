@@ -1,0 +1,67 @@
+------------------------------------------------------
+VBSoftware - http://www.vbsoftware.cl
+Software libre para desarrolladores Visual Basic
+Santiago de Chile
+2000-2002
+
+Proyect Library 2002 version 1.0.7
+Copyright (c) 2000-2002 por Luis Núñez Ibarra.
+------------------------------------------------------
+
+Archivos necesarios para la correcta ejecución de Project Library :
+
+Archivo     : C:\WINDOWS\SYSTEM\MSCOMCTL.OCX
+Tamaño      : 1041,19 KB 
+Fecha       : 21/05/2000 19:00:0
+Descripción : Microsoft Windows Common Controls 6.0 (SP4)
+GUID        : {831FDD16-0C5C-11D2-A9FC-0000F8754DA1}
+Ver. Mayor  : 2
+Ver. Menor  : 0
+
+Archivo     : C:\WINDOWS\SYSTEM\RICHTX32.OCX
+Tamaño      : 199,2 KB 
+Fecha       : 22/05/2000 00:00:0
+Descripción : Microsoft Rich Textbox Control 6.0 (SP4)
+GUID        : {3B7C8863-D78F-101B-B9B5-04021C009402}
+Ver. Mayor  : 1
+Ver. Menor  : 2
+
+Archivo     : C:\WINDOWS\SYSTEM\SHDOCVW.DLL
+Tamaño      : 924,27 KB 
+Fecha       : 05/05/1999 22:22:0
+Descripción : Microsoft Internet Controls
+GUID        : {EAB22AC0-30C1-11CF-A7EB-0000C05BAE0B}
+Ver. Mayor  : 1
+Ver. Menor  : 1
+
+Archivo     : C:\WINDOWS\SYSTEM\StdOle2.tlb
+Tamaño      : 17,5 KB 
+Fecha       : 23/09/1999 12:04:0
+Descripción : OLE Automation
+GUID        : {00020430-0000-0000-C000-000000000046}
+Ver. Mayor  : 2
+Ver. Menor  : 0
+
+Archivo     : C:\WINDOWS\SYSTEM\TLBINF32.DLL
+Tamaño      : 145 KB 
+Fecha       : 15/07/2000 00:00:0
+Descripción : TypeLib Information
+GUID        : {8B217740-717D-11CE-AB5B-D41203C10000}
+Ver. Mayor  : 1
+Ver. Menor  : 0
+
+Archivo     : C:\WINDOWS\SYSTEM\PVB_XMENU.DLL
+Tamaño      : 84 KB 
+Fecha       : 23/09/2001 13:55:26
+Descripción : PVB6 ActiveX DLL - Menu With Bitmaps !
+GUID        : {69EDFBA5-9FEC-11D5-89A4-F0FAEF3C8033}
+Ver. Mayor  : 1
+Ver. Menor  : 0
+
+Archivo     : C:\ARCHIVOS DE PROGRAMA\ARCHIVOS COMUNES\SYSTEM\ADO\msado15.dll
+Tamaño      : 476,27 KB 
+Fecha       : 19/05/2002 14:13:4
+Descripción : Microsoft ActiveX Data Objects 2.5 Library
+GUID        : {00000205-0000-0010-8000-00AA006D2EA4}
+Ver. Mayor  : 2
+Ver. Menor  : 5

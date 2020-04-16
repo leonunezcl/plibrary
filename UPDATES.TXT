@@ -1,0 +1,43 @@
+------------------------------------------------------
+VBSoftware - http://www.vbsoftware.cl
+Software libre para desarrolladores Visual Basic
+Santiago de Chile
+2000-2002
+
+Proyect Library 2002 version 1.0.5
+Copyright (c) 2000-2002 por Luis Núñez Ibarra.
+------------------------------------------------------
+
+Historial de versiones de Mayor a Menor.
+
+V 1.0.7 Beta
+*************
+- Se corrigen varios errores. También se incorpora la funcionalidad de búscar código en la libreria. 
+Ademas se incorpora archivo de ayuda.
+
+V 1.0.6 Beta
+*************
+- Se agregan las funcionalidades de exportar código a módulo .bas y .cls, asi como una nueva ficha bookmark. 
+Tambien se solucionan algunos errores en la inserción/mantención de código.
+
+V 1.0.5 Beta
+*************
+- Se afinan las funcionalidades y se agregan otras. 
+Se mejora la interfaz y se establece la pérdida del código que existia. 
+Tambien se cambia el campo de la descripción en la .mdb. 
+Ademas ahora viene con un browser integrado para buscar código.
+
+V 1.0.3 Beta
+*************
+- Se terminan las funcionalidades pendientes y se agregan algunas mejoras. 
+Tambien se habilita la exportación de rutinas desde módulos .bas y módulos .cls.
+
+V 1.0.2 Beta
+*************
+- Muchas mejoras y estabilización de la aplicación. 
+Se habilita la gran mayoria de las funcionalidades. 
+Faltaria hacer mas pruebas y dejar un release estable.
+
+V 1.0.0 Beta
+*************
+- Primera versión.

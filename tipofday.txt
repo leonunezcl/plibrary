@@ -1,0 +1,19 @@
+Para importar archivos seleccionar opciones del menu importar.
+Se puede exportar el código a módulos .bas y módulos .cls.
+Para cargar itemes hacer clic en la categoria.
+Para agregar un item a la libreria seleccionar Libreria|Agregar item
+Para modificar un item seleccionar Libreria|Modificar item
+Para eliminar un item seleccionar Libreria|Modificar item
+El botón derecho en el listview itemes despliega el menu popup de Libreria.
+El botón derecho en el código despliega el menu popup Edición.
+Para exportar el código a archivo de texto seleccionar Edicion|Exportar a texto.
+Para exportar el código a archivo de texto enriquecido seleccionar Edicion|Exportar a rtf.
+Para exportar el código a archivo de hypertexto seleccionar Edicion|Exportar a html.
+Para respaldar la libreria seleccionar libreria|Respaldar libreria a .zip
+Se puede exportar código desde archivos .bas, .cls, .frm, .ctl y .pag. También se pueden leer proyectos .vbp.
+Para bajar código desde internet hacer clic en la ficha Buscar en internet.
+Para buscar texto menú Edicion|Buscar o CTRL-F.
+Para buscar la siguiente coincidencia de texto menú Edicion|Buscar siguiente o F3.
+Para reemplazar código menú Edicion|Reemplazar o CTRL-H.
+Para ver el código de la rutina doble clic en el item o boton derecho Libreria|Ver código item ...
+

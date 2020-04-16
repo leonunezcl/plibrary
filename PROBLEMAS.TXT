@@ -1,0 +1,12 @@
+------------------------------------------------------
+VBSoftware - http://www.vbsoftware.cl
+Software libre para desarrolladores Visual Basic
+Santiago de Chile
+2000-2002
+
+Proyect Library 2002 version 1.0.7
+Copyright (c) 2000-2002 por Luis Núñez Ibarra.
+------------------------------------------------------
+
+- Problemas con el número de lineas.
+- Al eliminar algunos itemes se produce clave duplicada o se pierde código. (Aun no logro replicar >:-< !!!)
